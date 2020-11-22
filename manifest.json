@@ -2,8 +2,8 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "web3md",
-  "short_name": "web3md",
+  "name": "web3md.io | eternally-lasting thoughts on ethereum",
+  "short_name": "web3md.io | eternally-lasting thoughts on ethereum",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait",
   "icons": [
